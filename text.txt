@@ -1,0 +1,1 @@
+'use client' = if you want to use the react hooks the you write  'use client' in the top of your code

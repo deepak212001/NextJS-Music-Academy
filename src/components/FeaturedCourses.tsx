@@ -10,11 +10,11 @@ import { BackgroundGradient } from "@/components/ui/background-gradient";
 // yaha course ek json hai us me kya hai aur uska type bta rhe hai
 
 interface CourseType {
-  id: Number;
+  id: number;
   title: string;
   slug: string;
   description: string;
-  price: Number;
+  price: number;
   instructor: string;
   isFeatured: boolean;
   image: string;
